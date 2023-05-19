@@ -11,7 +11,7 @@ gh repo clone Gitmazter/rustTest
 <h3><u> Step 2 </ul></u></h3>
 <p> Open your terminal and cd into folder location, then cd into /clock" </p>
 <blockquote>
-cd ~/your-directory/rustTest/clock
+cd ~/your-directory/ClockRs/clock
 </blockquote>
 <hr/>
 <h3><u> Step 3 </ul></u></h3>
